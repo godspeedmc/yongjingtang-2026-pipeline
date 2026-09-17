@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 33,
+  "column_index": 6,
+  "source_crop": "field-crops\\pillars\\page_033\\col_06_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "十 成 成 全\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "rM/T」\n\n全 一\n\n六\n\n2\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "二 貴人\n耳 崎 克 了\n多 三 必敗 辰 伍 人 瑪\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "Ni+AN7T\n\n吧\n\n三\n\n| 天\n\n生\n\n一\n\n光\n\nM\n\n各 >\n\n之 到\n\n| 同 人 品\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "了\nY 3\n定 誠 生\n三 吃 千 志 搬 兩 展 生 人 至\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "NAN7T\n\n名 三\n\n4 mi\n\n當\n\n去 二\n\n4E\n\n沁\n\nNZ\n\n[2>\n\n之 和 用\n\n| 品\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "HR 入 荐 員 人\n\nN N\n有 和 全\n多 三 履歷 兩 辰 生 人 和 存\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "NiheN7E\n\n吧\n\n三\n\n[二\n\n污\n\n一\n\n王\n\n二 M/\n\n人 >\n\n攻\n\n| 同 可\n",
+      "pillars": []
+    }
+  ]
+}

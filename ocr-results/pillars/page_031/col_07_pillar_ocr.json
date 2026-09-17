@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 31,
+  "column_index": 7,
+  "source_crop": "field-crops\\pillars\\page_031\\col_07_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "4--rN\n\nN/Z\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "同 丰 人 要 全\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "4--rN\n\nN/\n\nMMM\n\nllM\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "N/\n\nAM\n\n久久\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "同 真 公 香 全\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "一 」--rN\n\nN/\n\nMMM\n\nTW\n\nN kk\n",
+      "pillars": []
+    }
+  ]
+}

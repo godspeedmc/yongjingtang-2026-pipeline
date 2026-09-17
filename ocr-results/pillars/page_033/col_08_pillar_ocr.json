@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 33,
+  "column_index": 8,
+  "source_crop": "field-crops\\pillars\\page_033\\col_08_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "加 千 三 下子 十 每 平\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "生\n\nkN\n\n(一\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "還\n\n中 人\n\nkN\n\n(一\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "加 得 三 從 子 二 筑 平 天\n加 得 三 從 子 二 筑 平 天\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "-: 乏\n\n汀\n\n和\n\n2\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "U\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "二 愛民\n\n而 時\n\n中 休\n\nk\n\n(8\n",
+      "pillars": []
+    }
+  ]
+}

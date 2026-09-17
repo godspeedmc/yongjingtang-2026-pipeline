@@ -1,0 +1,19 @@
+{
+  "input_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\review\\ground_truth_pages_028_036.csv",
+  "input_records": 62,
+  "publishable_records": 62,
+  "rejected_records": 0,
+  "errors": [],
+  "provenance_policy": {
+    "publication_fields": [
+      "lunar_date",
+      "day_pillar"
+    ],
+    "generic_rule_fields": [
+      "wealth_direction",
+      "joy_direction",
+      "clash_zodiac",
+      "sha_direction"
+    ]
+  }
+}

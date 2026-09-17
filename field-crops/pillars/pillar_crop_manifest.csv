@@ -1,0 +1,10 @@
+﻿source_pdf_page,column_index,source_crop,pillar_original,pillar_processed,local_x0,local_y0,local_x1,local_y1
+37,1,page-crops\page_037\col_01_original.png,field-crops\pillars\page_037\col_01_pillar_original.png,field-crops\pillars\page_037\col_01_pillar_processed.png,0,990,115,1595
+37,2,page-crops\page_037\col_02_original.png,field-crops\pillars\page_037\col_02_pillar_original.png,field-crops\pillars\page_037\col_02_pillar_processed.png,0,990,166,1595
+37,3,page-crops\page_037\col_03_original.png,field-crops\pillars\page_037\col_03_pillar_original.png,field-crops\pillars\page_037\col_03_pillar_processed.png,0,990,104,1595
+37,4,page-crops\page_037\col_04_original.png,field-crops\pillars\page_037\col_04_pillar_original.png,field-crops\pillars\page_037\col_04_pillar_processed.png,0,990,104,1595
+37,5,page-crops\page_037\col_05_original.png,field-crops\pillars\page_037\col_05_pillar_original.png,field-crops\pillars\page_037\col_05_pillar_processed.png,0,990,166,1595
+37,6,page-crops\page_037\col_06_original.png,field-crops\pillars\page_037\col_06_pillar_original.png,field-crops\pillars\page_037\col_06_pillar_processed.png,0,990,106,1595
+37,7,page-crops\page_037\col_07_original.png,field-crops\pillars\page_037\col_07_pillar_original.png,field-crops\pillars\page_037\col_07_pillar_processed.png,0,990,228,1595
+37,8,page-crops\page_037\col_08_original.png,field-crops\pillars\page_037\col_08_pillar_original.png,field-crops\pillars\page_037\col_08_pillar_processed.png,0,990,104,1595
+37,9,page-crops\page_037\col_09_original.png,field-crops\pillars\page_037\col_09_pillar_original.png,field-crops\pillars\page_037\col_09_pillar_processed.png,0,990,130,1595

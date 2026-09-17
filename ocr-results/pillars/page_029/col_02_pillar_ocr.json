@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 29,
+  "column_index": 2,
+  "source_crop": "field-crops\\pillars\\page_029\\col_02_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "可\n回 初 七 乙 王 金 朝 封 于\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "才\n\n說\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "直\n回 初 莖 乙 王 金 )\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "作\n\n詞\n\n1\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "條 多\n加 初 莖 乙 王 倒\n金 豫 計\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "之 )\n\n八\n\n沙\n\nN(\n\n放\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "下\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "作\n\nDM\n\n1\n",
+      "pillars": []
+    }
+  ]
+}

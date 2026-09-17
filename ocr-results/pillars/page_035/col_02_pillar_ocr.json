@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 35,
+  "column_index": 2,
+  "source_crop": "field-crops\\pillars\\page_035\\col_02_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "購 廿 二 己 西 寺 委 建\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "証 廿 二 己 丁 十 媽 建\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "MA\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "轉 廿 三 己 本 圭 委 畫\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "下\n\nKA\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "風 馬 二 己 西 十 媽 建\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "3\n",
+      "pillars": []
+    }
+  ]
+}

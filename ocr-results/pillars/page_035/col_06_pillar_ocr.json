@@ -1,0 +1,71 @@
+{
+  "source_pdf_page": 35,
+  "column_index": 6,
+  "source_crop": "field-crops\\pillars\\page_035\\col_06_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [
+    "丁未"
+  ],
+  "vote_counts": {
+    "丁未": 1
+  },
+  "top_candidate": "丁未",
+  "top_votes": 1,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "Lu“ ww ~ 一 /-/y 上 Li /-i1\n\n二 太守\n人 二 所\n評 和\n有 生 生 硅 天 生 一 / 和\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "限\n\n閃\n\n7\n\nN/\n\nii\n\n|\n\n|M\n\nMk\n\n站 7\n\nwi\n\n中\n\n1\n\n|\n\nx)\n\n|\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "潑 已 時 天 貴人 吉\n大 突 于 生\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "必 關\n\n有\n\n二\n\n>\n\n生\n\n疙\n\n議 放 >\n\n>\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "說 號 時 天 選 貴 全\n其 對\n種 人“ 丁 未 昔 未 生 人\n",
+      "pillars": [
+        "丁未"
+      ]
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "站 爸 光 誤\n\nmm\n\nXX\n\n和\n\n>\n\n此 和\n\n光\n\n汶 @>\n\n之 六\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "檔 口 時 天 / 貴 人 吉\n大 婦 生 對\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "店 及\n\n上 工\n\n二\n\n補 洲 >\n\n生\n\n疙\n\n族 吃 >\n\n>\n",
+      "pillars": []
+    }
+  ]
+}

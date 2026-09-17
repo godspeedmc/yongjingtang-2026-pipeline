@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 30,
+  "column_index": 7,
+  "source_crop": "field-crops\\pillars\\page_030\\col_07_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "人 人選 二 十 大 寅 填空\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "和 是\n\n生\n\n| 上\n\n[| 各)\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "人 性 二 十 大 賓 士 生\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "(多 ~\n\n詞\n\n0\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "全 十 拓 寅 十 筆\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "年\n\n太 人\n\ndi\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "人 有 二 十 大 賓 士 生\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "(Mo\n\n記\n",
+      "pillars": []
+    }
+  ]
+}

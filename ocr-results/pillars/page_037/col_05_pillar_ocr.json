@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 37,
+  "column_index": 5,
+  "source_crop": "field-crops\\pillars\\page_037\\col_05_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "NSN\n\n入\n\n3\n\nVP\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "芳 生 下 了 好 一\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "NSN\n\n人 MM\n\nMM\n\n112\n\nVP\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "太 當 畫 至\n生 在\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "MY\n\n也\n\n2\n\nLA\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "本 九 和 人 三 王\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "NSN\n\n和 MM\n\n| (還\n\nWWW\n\n|】\n\nVE\n",
+      "pillars": []
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 30,
+  "column_index": 1,
+  "source_crop": "field-crops\\pillars\\page_030\\col_01_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "TiEEEI bU\n安 床 月\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "Ag\n\n電光 吉 革\n\n并 沁 半\n\nF\n\nll\n\n|\n\n品 中\n\nw w\n\n人 |\n\nPS\n\nV\n\n7 生 上\n\nkW\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "》 時 洪 和 古人\n廬 本 十 四 王 申 金 和\n站 十 二 二 二 全\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "Av\n\n電光 宮 革\n\n上 漲 洗\n\n本 圖 毗\n\n至 =\n\n水 時 >\n\n汪 晤 、\n\n沁 叭\n\n由 人\n\n>\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "上 由 站 人 MM 玉 Z 濕 人\n人 中\n菩 襄 上 一 己 #w 折 安 其 二 生\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "8\n\n電光 宮 匣\n\n總\n\n省卻\n\n理 國 燭\n\n至 置 =\n\n妨 由\n\n沁 論\n\n沈 早 s\n\n下\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "“上 財 滲 (0W 人 Z 穫 人\n二 本 十 四 王 中 金 和\n二 天 二 條\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "Av\n\n上 + 閃光\n\n灣 光 吉 革\n\nC\n\n一\n\n當 時\n\n深 晤 5\n\n當 叭\n\n由 人\n\n>\n",
+      "pillars": []
+    }
+  ]
+}

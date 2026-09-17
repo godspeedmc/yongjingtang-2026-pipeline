@@ -1,0 +1,77 @@
+{
+  "source_pdf_page": 30,
+  "column_index": 5,
+  "source_crop": "field-crops\\pillars\\page_030\\col_05_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [
+    "丙子"
+  ],
+  "vote_counts": {
+    "丙子": 4
+  },
+  "top_candidate": "丙子",
+  "top_votes": 4,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "人 全 上 二 人 丙 子 水 肝\n",
+      "pillars": [
+        "丙子"
+      ]
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "芒\n\nN/\n\n訊 記\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "人 全 琴 凡 丙 子 小 膨\n",
+      "pillars": [
+        "丙子"
+      ]
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "芒\n\nN/\n\n認 記\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "人 入 半 信 丙 子 考 肝\n",
+      "pillars": [
+        "丙子"
+      ]
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "主\n\nNz\n\n認 記\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "人 生 二 几 丙 子 小 肝\n",
+      "pillars": [
+        "丙子"
+      ]
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "(Ma\n\n_\n\nN/\n\n訊 記\n",
+      "pillars": []
+    }
+  ]
+}

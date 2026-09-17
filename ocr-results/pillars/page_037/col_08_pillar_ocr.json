@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 37,
+  "column_index": 8,
+  "source_crop": "field-crops\\pillars\\page_037\\col_08_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "類 千 一 及 提示 宮 硯 王\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "訂\n\n旨 8\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "不 竺 克\n二 九 壓\n對 二\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "訂\n\n旨 8\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "于 一 用 壓 趟 筑 丰 一\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "洲 生\n\n詞 條\n\n本 人 人\n\n窟\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "昌 千 一 以 壓 不 竺 太\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "記\n\n宮\n",
+      "pillars": []
+    }
+  ]
+}

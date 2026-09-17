@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 29,
+  "column_index": 4,
+  "source_crop": "field-crops\\pillars\\page_029\\col_04_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "著 款 芽 全 和 3r 2 上 7 划\n去 多 aa ~ i 上 上 和 和 是 歷\ns ||\n二\n\n二 -\nii. NA 二 生 生 生 ~ 入 銜\n\n- - 一 ww 多 ln i\nwi 人 | - > TV 二\n\n和 條 ww 「 光 【 一 w 7\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "fi 用\n\n前\n\n3\n\n吧 7\n\n才 一\n\n- 汪 、\n\nNz\n\n三\n\nI\n\nww\n\n一\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "初 古 加 元 穫\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "- 譯 黑 】\n\n之\n\n一\n\n二\n\n一\n\n人 名 二\n\n@)\n\n導\n\n)E\n\n一\n\n>\n\n[上\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "未 及 有 TH 上 0 圭 戰\n站\n初 尤 証 基文 穫 一\n光 選 必 在 本 及 西 生 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "=\n\n屯 憲\n\n理 』\n\n了\n\nE\n\nx\n\n1\n\n中\n\n表 三\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "補丁 還 姑 亢 全\n心心 二 十 兩 仙人\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "~ 一\n\n之\n\n一\n\n二\n\n一\n\n人 好 也\n\n多 )\n\n王\n\n導\n\n)E\n\n一\n\n>\n\n[\n",
+      "pillars": []
+    }
+  ]
+}

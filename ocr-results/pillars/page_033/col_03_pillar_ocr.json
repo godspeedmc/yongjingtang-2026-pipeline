@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 33,
+  "column_index": 3,
+  "source_crop": "field-crops\\pillars\\page_033\\col_03_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "7 引\n入 信 大 三 全\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "LE\n\nN)\n\nN/\n\n條\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "E 6 -\n狼人 免 歷歷 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "#gI[【」 崗\n\nNS)\n\nN/\n\n和 MM\n\n一\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "2 二\n加 作 全 器\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "VC\n\nN/\n\n和 上\n\n加 加\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "狼人 錫 大 呈 且\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "生 g[【」 崗\n\nVS\n\nN/\n\n人\n\n周回\n",
+      "pillars": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "source_pdf_page": 37,
+  "column_index": 4,
+  "source_crop": "field-crops\\pillars\\page_037\\col_04_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [
+    "甲子"
+  ],
+  "vote_counts": {
+    "甲子": 4
+  },
+  "top_candidate": "甲子",
+  "top_votes": 4,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "三 2\n刀 初 人 甲子 金 一 滿 一\n",
+      "pillars": [
+        "甲子"
+      ]
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "之\n\nNZ\n\n說\n\npa\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "三 7\n紀 初 人 甲子 金 王 江 一\n",
+      "pillars": [
+        "甲子"
+      ]
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "之 )\n\nNZ\n\n鄉 W\n\n條\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "金 王 灌\n22 初 人 甲子\n",
+      "pillars": [
+        "甲子"
+      ]
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "泛 誼\n\n才\n\nN/\n\n人\n\n人\n\n交戰\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "名 生 2\n抱 初 人 甲子 金 一 湛\n",
+      "pillars": [
+        "甲子"
+      ]
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "之 )\n\nN/\n\n鄉 W\n\n2\n",
+      "pillars": []
+    }
+  ]
+}

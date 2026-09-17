@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 37,
+  "column_index": 6,
+  "source_crop": "field-crops\\pillars\\page_037\\col_06_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "生 初 干 丙 宇 天 心 生 一\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "7 漣\n\n之\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "生 初 得 丙 宇 欠 心 自\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "說 昌\n\n之\n\nM 昌 了\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "- 學 心 征 一\n生 初生 商 宇 災 放\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "說\n\n館 」\n\n澀\n\nY 哩\n\nM 人 0\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "生 初 干 丙 宇 炙 心 生\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "說 玫\n\n之\n\nM 昌 了\n\n> 人\n",
+      "pillars": []
+    }
+  ]
+}

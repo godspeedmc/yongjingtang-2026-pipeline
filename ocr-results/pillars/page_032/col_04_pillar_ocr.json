@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 32,
+  "column_index": 4,
+  "source_crop": "field-crops\\pillars\\page_032\\col_04_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "太 四 羊 苑 生 托 破 耕\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "之 」\n\n』\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "工 x\n工 初 四 六 多 生 拖 鄉 台\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "之 」\n\n了\n\n諒\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "初回 辛 若 未 大 破 各\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "放 」\n\n可 衣\n\n=\n\n水\n\n|\n\n人 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "工 X\n工 初 四 半 儿 椒 拓 破 耕\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "之 」\n\n也\n\n巡\n",
+      "pillars": []
+    }
+  ]
+}

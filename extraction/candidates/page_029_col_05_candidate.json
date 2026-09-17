@@ -1,0 +1,136 @@
+{
+  "date_candidate": "2026-08-22",
+  "date_mapping_source": "printed_page_sequence",
+  "lunar_month_hint": "七月",
+  "lunar_date_candidates": [
+    "七月初十",
+    "七月十二"
+  ],
+  "day_pillar_candidates": [],
+  "wealth_direction_candidates": [],
+  "joy_direction_candidates": [],
+  "clash_zodiac_candidates": [],
+  "sha_direction_candidates": [],
+  "field_agreement": {
+    "lunar_date_candidates": {
+      "candidates": [
+        "七月初十",
+        "七月十二"
+      ],
+      "vote_counts": {
+        "七月初十": 1,
+        "七月十二": 1
+      },
+      "top_candidate": "七月初十",
+      "top_votes": 1,
+      "source_count": 4
+    },
+    "day_pillar_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "wealth_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "joy_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "clash_zodiac_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "sha_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    }
+  },
+  "source_pdf_page": 29,
+  "column_index": 5,
+  "source_crop": "page-crops\\page_029\\col_05_original.png",
+  "crop_coordinates": {
+    "x0": 642,
+    "y0": 261,
+    "x1": 870,
+    "y1": 3000
+  },
+  "column_warning": false,
+  "column_warning_notes": "",
+  "pdf_coordinate_text": "",
+  "pdf_coordinate_tokens": [],
+  "extraction_sources": [
+    {
+      "source": "page_029_col_05_original_psm5",
+      "text": "星\n令\n中\n也\n人\n二\n二\n性\n世\n三\n買\n田\n2\n放\n第\n六\n清新\n入\n學\n會\n友\n全\n頁\n員\nl\n旦\n澡\n和\n成本\n委\n人\n和\n訂\n和\n和\n人\n動人\n和\n還\n上\n太\n天\n醫\n再\n各\n還\n度\n肌\n冬\n必\n針\n灸\n打\n上\n時\n處\n條\n全\n上\n修\n倉\n胃\n骨\n安\n葬\n不\n生\n多\n入",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 31.913,
+      "median_confidence": 30.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_029_col_05_original_psm5.json"
+    },
+    {
+      "source": "page_029_col_05_original_psm6",
+      "text": "站\n個\n>\n服\n取\n工\n夫\n=\nTT\n慘\n“=\n4\n只\n吧\n加\n王\n冷\n尊\n正\n穫\n蕊\n定\n』\n三\n還\n旦\n三\n王\n沁\n到\n三\n訂\n全\n二\n站\n志\n蘭\n四\n>\n之\n名\n(相\n站\n到\n漁\n環\n銜\n放\n諒\n柒\n漲\n部\n作詞\n轉\n兩\n>\n環\n誰\n想\n人\n圳\n嘆\n就\n生\n二\n生\n六\n避\n如\n寢\nN/\n紀\n世",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 19.863,
+      "median_confidence": 3.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_029_col_05_original_psm6.json"
+    },
+    {
+      "source": "page_029_col_05_processed_psm5",
+      "text": "十\n二\n星\n久\n人\n也\n人\n王\n三\n下\n作\n匠\n三\nTT\nll\n和\n祭\n祁\n洲\n禮\n入\n學\n會\n友\n圭\n上\n由\n上\n鋪\n點\n所作\n庫\nM\n佃\n下\n生\n對\n二\n點\n選\n初\n十\n成\n歷\n林\n生\n和\n衣\n移\n從\n動\n十\n和\n人族\n天\n醫\n再\n二\n加\n或\n名\n各\n時\n=\n針灸\n打\n上\n贍\n廬\n几\n條\n全\n上\n梁\n修\n倉\n葉\n讓\n安葬\n不\n1\n咆\n衝\n生",
+      "lunar_date_candidates": [
+        "七月十二",
+        "七月初十"
+      ],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 28.476,
+      "median_confidence": 27.5,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_029_col_05_processed_psm5.json"
+    },
+    {
+      "source": "page_029_col_05_processed_psm6",
+      "text": "若\n八\n廚\n涵\n入\n說\n江\n下\n上\n工\n穴\n噴\n“\n訂\n人\n人\nor\n人\n和\n慘\n】\n旺\n“二\n人\n芋\n蝦\n尖\n下\n冷\n瘋\n正\n議\n塵\n室\n】\n三\n有\n點\n還\n到\n瑟\n記\n人\n一\n說\n之\n久\n(和\n門\n還\n于\n光\n砰\n康\n染\n漲\n施\n以\n品\n和\n2\n潑\n刀\n中\n人\n旋\n注\n站\n下\n閃\n導\n加\n二\n/\n紀\n和",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 16.224,
+      "median_confidence": 0.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_029_col_05_processed_psm6.json"
+    }
+  ],
+  "ocr_pass_count": 4,
+  "candidate_build_status": "candidate_created"
+}

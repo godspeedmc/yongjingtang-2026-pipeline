@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 29,
+  "column_index": 3,
+  "source_crop": "field-crops\\pillars\\page_029\\col_03_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "和 初 作 肉 筑 炙 角 碗 三\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "之\n\n之\n\nN/\n\nx\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "還\n和 初 八 肉 寅 及 全 破 三\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "E 之\n\n之\n\nN/\n\nx\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "和\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "到 之\n\n作 】\n\nN/\n\n可 人\n\nx\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "和 初 作 肉 策 及 全 破 三\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "民 之\n\n之\n\nN/\n\nx\n",
+      "pillars": []
+    }
+  ]
+}

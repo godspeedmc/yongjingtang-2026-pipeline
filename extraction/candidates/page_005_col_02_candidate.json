@@ -1,0 +1,150 @@
+{
+  "date_candidate": null,
+  "date_mapping_source": null,
+  "lunar_month_hint": null,
+  "lunar_date_candidates": [],
+  "day_pillar_candidates": [],
+  "wealth_direction_candidates": [],
+  "joy_direction_candidates": [],
+  "clash_zodiac_candidates": [],
+  "sha_direction_candidates": [],
+  "field_agreement": {
+    "lunar_date_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 6
+    },
+    "day_pillar_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 6
+    },
+    "wealth_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 6
+    },
+    "joy_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 6
+    },
+    "clash_zodiac_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 6
+    },
+    "sha_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 6
+    }
+  },
+  "source_pdf_page": 5,
+  "column_index": 2,
+  "source_crop": "page-crops\\page_005\\col_02_original.png",
+  "crop_coordinates": {
+    "x0": 1097,
+    "y0": 212,
+    "x1": 1287,
+    "y1": 2437
+  },
+  "column_warning": false,
+  "column_warning_notes": "",
+  "pdf_coordinate_text": "",
+  "pdf_coordinate_tokens": [],
+  "extraction_sources": [
+    {
+      "source": "page_005_col_02_original_psm4",
+      "text": "",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": null,
+      "median_confidence": null,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_005_col_02_original_psm4.json"
+    },
+    {
+      "source": "page_005_col_02_original_psm6",
+      "text": "Ef\n|\n一\nTr\nyale\na\nage\neg\nree\n|\nHe\n凶\n擊\n弛\n|\n凶\n中\n品\nAEH\nBEA\nRag\ned\nfar\nPee\nBEE\n中\n吉\n中\n|\n中\n中\n大\nHRM|\nKAI\npeu\naed\nad\nJess\n|\nJee\n(ee\nhii]\n“Ef\n49)\n|\n4\n五\n|\n四\nPa|\nZ\n‘pa\n|\n再\nK|\n2\n|\nBA\nBi\nRR\n行\n開\n訂\n,\n忌\nhe\nBR\n結\nRR\ni\nHy\nae}\nFAI\nee\n刑\n辟\n|\n將\nY\na\n爐灶\n|\n出\n用",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 49.643,
+      "median_confidence": 46.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_005_col_02_original_psm6.json"
+    },
+    {
+      "source": "page_005_col_02_original_psm11",
+      "text": "主\n|\n一\nville|\nTa\nise\nis\n堂\n世\nPAPA)\nPale\nHilie\nyt)\nHi\nef\nAGH\nAGH\neft\nDi\nFAM\nBAI\n中\narp\nHs\neas\ni\n=\n{PR\nKhiid|\n18\n47)\n|\nP¥|\n金\nK\nFa\n|\n$2\n|\nFA\n上\n會\nPRA\n開\n計\n行\n安\n納\n納\n|\n床\nme\n紹\nKR\na)\n血\n和\nWF\nPa\n支\n和\n刑\n忌\nwhe\nHak\n|\nBale",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 51.97,
+      "median_confidence": 52.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_005_col_02_original_psm11.json"
+    },
+    {
+      "source": "page_005_col_02_processed_psm4",
+      "text": "",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": null,
+      "median_confidence": null,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_005_col_02_processed_psm4.json"
+    },
+    {
+      "source": "page_005_col_02_processed_psm6",
+      "text": "Tf\n|\n二\n全\nFr\nyee\n|\nae\npai\nVe\nTt\nwer\n|\nIe\n凶\n擊\n|\n區\nET\neT\nof]\nDe\nBea\nBER\naf\nagar\nHRM|\nHRI\noes\n(eee\nae\n灶\n禮\n十\n租\n40)\n|\n49\n|\nPY\nP|\nZ\nEe\n|\nK|\n金\nFg\n|\n22\n3!\n|\nBA\na\nBRR\n行\n開\n記\ni\nae\nI\nee\n華\n易\nSo\nde\nFA\nee\n刑\n忌\n|\n將\n站\n爐灶\n|\n廁\n有",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 44.434,
+      "median_confidence": 41.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_005_col_02_processed_psm6.json"
+    },
+    {
+      "source": "page_005_col_02_processed_psm11",
+      "text": "Ef\n|\n=\nyee\n|\nae\nabe\ni\n堂\n世\nPAPA]\neh\nHie\ny|\nHey\nABH\nAC\nai\nap\nBF\nKARIM\nKAS\n二\n中\n中\n中\n則\n中\n四\n4]\nas\n{ear\nAbit\nEf\n47)\n|\nPa|\nZ\n金\nK\nFa\n|\n22\n畫\n|\n九\n上\n會\n開\n計\n行\n安\n納\n納\nBA\n%\ni\nRR\nEw)\noe\n|\nhs\nWF\nPai\nxi\n刑\n忌\n將\nRLY\n廚\nSie",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 45.31,
+      "median_confidence": 42.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_005_col_02_processed_psm11.json"
+    }
+  ],
+  "ocr_pass_count": 6,
+  "candidate_build_status": "needs_date_mapping"
+}

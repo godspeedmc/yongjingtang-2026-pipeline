@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 31,
+  "column_index": 5,
+  "source_crop": "field-crops\\pillars\\page_031\\col_05_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "本 天 呈 中 本\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "yy22 之 -\n\n衝 父 寺\n\nN /\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "出 玫 (N 5\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "2 之 -\n\n冰 交 寺\n\nN /\n\n愛 是\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "V/> 之 -\n\nN/\n\n山邊 叮\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "相 用 5\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "zz\n\n首 交 大\n\nN /\n\n甩\n",
+      "pillars": []
+    }
+  ]
+}

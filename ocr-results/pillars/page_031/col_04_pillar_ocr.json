@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 31,
+  "column_index": 4,
+  "source_crop": "field-crops\\pillars\\page_031\\col_04_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "0 中\nae\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "mm4\n\n你\n\nWE\n\n屯\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "0 中\n和 歷 】\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "=m4\n\n几\n\nWE\n\n中\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "用 對\n上 五 詭 示 檔 晤\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "族 刀 )\n\nmm4\n\n激 3\n\nMA\n\nw\n\n下\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "脆 未 木 昂 閉\n0 人 惠 五\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "4\n\n必\n\nWE\n\n玫\n",
+      "pillars": []
+    }
+  ]
+}

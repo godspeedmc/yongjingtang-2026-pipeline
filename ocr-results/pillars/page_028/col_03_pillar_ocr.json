@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 28,
+  "column_index": 3,
+  "source_crop": "field-crops\\pillars\\page_028\\col_03_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "生\n點 初 三 書 西 秒 材 取 各\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "信 歡\n\n之 】\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "點 初 三 閨 西 不 柳 娶 各\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "_\n\n之\n\n《 站 | 民\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "點 初 三 書 西夏 材 險 條\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "店\n\n史 】\n\n之 三\n\n有 2\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "點 初 三 圭 西 不 材 取 邊\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "所 臣\n\n之\n\n《 站 | 民\n",
+      "pillars": []
+    }
+  ]
+}

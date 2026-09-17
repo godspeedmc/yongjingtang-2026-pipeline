@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 28,
+  "column_index": 4,
+  "source_crop": "field-crops\\pillars\\page_028\\col_04_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "性 示 和\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "人\n\nN\n\nMK\n\nYu\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "多 王 示 旺\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "人\n\nN\n\nYA\n\nYu 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "區 竹 噩 三世\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "人\n\n2\n\n山 科\n\nMG\n\n和\n\n>\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "多 三 示 量 和\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "人\n\nN\n\nNA\n\nYu 人\n",
+      "pillars": []
+    }
+  ]
+}

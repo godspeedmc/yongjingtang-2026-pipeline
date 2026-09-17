@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 30,
+  "column_index": 8,
+  "source_crop": "field-crops\\pillars\\page_030\\col_08_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "十 一己 儿 十 辟\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "和 & 們 吃\n\n層 蟬\n\n畫\n\n二\n\n|||E|()\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "上 廿 一 己 儿 十 歷\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "(Ma 人 、\n\n名 如\n\n了 划 W\n\nEE\n\nBB\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "一 己 其 土 避\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "(4 和\n\nM 蟬\n\n划 w\n\n包\n\n0\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "生 _ 己 外 土 性\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "(Ma 學 (名 ~\n\n2 如\n\n划 W\n\n=\n\nBR\n",
+      "pillars": []
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "source_pdf_page": 36,
+  "column_index": 3,
+  "source_crop": "field-crops\\pillars\\page_036\\col_03_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [
+    "己未",
+    "乙未"
+  ],
+  "vote_counts": {
+    "己未": 2,
+    "乙未": 1
+  },
+  "top_candidate": "己未",
+  "top_votes": 2,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "昌 初 三\n是 初 三 己 未 炙 珀 收\n",
+      "pillars": [
+        "己未"
+      ]
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "有\n\n途\n\n准\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "是 初 三\n呈 初 三 己 未 炙 代 收 王\n",
+      "pillars": [
+        "己未"
+      ]
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "名\n\n泡\n\n8\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "是 初 三\n有 初 三 乙未 火 珀 收\n",
+      "pillars": [
+        "乙未"
+      ]
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "花 錫\n\n你\n\n生\n\n6\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "有 二 苞 未 炙 上\n號 初 三 選 作\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "品 各\n\n泡\n",
+      "pillars": []
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 33,
+  "column_index": 1,
+  "source_crop": "field-crops\\pillars\\page_033\\col_01_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "用 選 “了 雄 乙 碼 生 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "ae\n\n之\n\nN/\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "吧 品 時 天 選 員 人 古\n\n上\n\n初 六 有 已 師\n取 己 心 ] 和 / 友 生 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "1\n\n吧 二\n\n和\n\n」」N4/\n\n>\n\n一\n\n※\n\nsn\n\n※\n\n>\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "也 已 則 天 選 貴 人 各\n1 多 二\n初 六 天 已 水 夫 上 一\n甩 己 必 了 克 之 雄 生 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "生 歷 必\n\n~[) 放 華\n\nN/\n\nW\n\n>\n\nSTD\n\n※\n\n1\n\n中\n\n3\n\n>\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "咐 也 半天 選 員 人 二\n和 初 六 妖 已 水 成\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "aeN\n\n吧 二\n\n下\n\n」」N/\n\n>\n\n※\n\nsn\n\n※\n\nN\n\n>\n",
+      "pillars": []
+    }
+  ]
+}

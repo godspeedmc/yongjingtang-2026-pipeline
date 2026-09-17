@@ -1,0 +1,134 @@
+{
+  "date_candidate": "2026-08-19",
+  "date_mapping_source": "printed_page_sequence",
+  "lunar_month_hint": "七月",
+  "lunar_date_candidates": [
+    "七月初七"
+  ],
+  "day_pillar_candidates": [],
+  "wealth_direction_candidates": [],
+  "joy_direction_candidates": [],
+  "clash_zodiac_candidates": [],
+  "sha_direction_candidates": [],
+  "field_agreement": {
+    "lunar_date_candidates": {
+      "candidates": [
+        "七月初七"
+      ],
+      "vote_counts": {
+        "七月初七": 2
+      },
+      "top_candidate": "七月初七",
+      "top_votes": 2,
+      "source_count": 4
+    },
+    "day_pillar_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "wealth_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "joy_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "clash_zodiac_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "sha_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    }
+  },
+  "source_pdf_page": 29,
+  "column_index": 2,
+  "source_crop": "page-crops\\page_029\\col_02_original.png",
+  "crop_coordinates": {
+    "x0": 1257,
+    "y0": 261,
+    "x1": 1362,
+    "y1": 3000
+  },
+  "column_warning": false,
+  "column_warning_notes": "",
+  "pdf_coordinate_text": "",
+  "pdf_coordinate_tokens": [],
+  "extraction_sources": [
+    {
+      "source": "page_029_col_02_original_psm5",
+      "text": "【i\n軋\n講\n呈\n食\n熙\n選科\n中\n未\n也\n生\n書\n初\n七\n乙\n王\n金\n電\n半\n到\n紀香\n會\n友\n收\n導\n柄\n埋伏\n紫\n舉\n喔\n上\n雁\n請",
+      "lunar_date_candidates": [
+        "七月初七"
+      ],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 26.424,
+      "median_confidence": 0.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_029_col_02_original_psm5.json"
+    },
+    {
+      "source": "page_029_col_02_original_psm6",
+      "text": "ME\n二\n下\n區\n上\n二\n一\n柒\n趟\n當\n三\n三\n到\n※\n并\n當\nEEE\n的\n天\n六\n二\n之\n有\nN\nma\n公\nW\n弗\nTE\n嘆\nA\n8\n人\n4\n洽\n路\n六\n亞\n韻\n果\n革\n漲\n呈\n站\n罕\n還",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 24.0,
+      "median_confidence": 11.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_029_col_02_original_psm6.json"
+    },
+    {
+      "source": "page_029_col_02_processed_psm5",
+      "text": "【\n千\n力\n望\n號\n多\n丰\n站\n衝\n中\n未\n了\n下\n本\n初\n七\n乙\n王\n金\n划\n和\n豬\n尼\n包\n香\n會友\n路\n姜\n縛\n音\n凶\n屁\n婦\n也\n丘\n雄\n前",
+      "lunar_date_candidates": [
+        "七月初七"
+      ],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 25.054,
+      "median_confidence": 13.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_029_col_02_processed_psm5.json"
+    },
+    {
+      "source": "page_029_col_02_processed_psm6",
+      "text": "訓\nMU\n太\n六\n下\n和\n式\n三\n記\n區\n苞\n出\n選區\n二\n柒\n計\n當\n下\n三\n※\n江\n滲\n有\nE\n尋\n立\n箇\n站\n這\n工\nN\n由\n必\nW\n和\n別\n3\n上\n8\n网\n人\n他\n記\n六\n于\n旺\n半\n好\n交\n區\n寢",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 16.882,
+      "median_confidence": 0.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_029_col_02_processed_psm6.json"
+    }
+  ],
+  "ocr_pass_count": 4,
+  "candidate_build_status": "candidate_created"
+}

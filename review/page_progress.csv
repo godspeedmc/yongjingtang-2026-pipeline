@@ -1,0 +1,5 @@
+source_pdf_page,crop_reviewed,date_mapping_complete,lunar_dates_reviewed,pillars_reviewed,ground_truth_created,supabase_imported,notes
+28,yes,yes,yes,yes,yes,yes,Manual five-column layout
+29,yes,yes,yes,yes,yes,yes,Eight detected columns
+30,yes,yes,yes,yes,yes,yes,Manual eight-block layout
+31,yes,pending,pending,pending,pending,no,Eight columns

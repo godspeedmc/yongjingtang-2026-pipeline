@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 35,
+  "column_index": 3,
+  "source_crop": "field-crops\\pillars\\page_035\\col_03_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "全 衝衝 生 于 半 才 4 人 1\nTA\n一 1w4 m 7 Aa 4\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "插 生 生 鋪\n\n|\n\nT\n\n細 半 了\n\n>\n\nMI\n\n【#\n\nAh\n\ndd\n\n~N\n\nG\n\n二\n\nmmN\n\n|\n\n* A\n\n一\n\n|\n\n1\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "[國 半 和 說 到\n喪 選 人“ 站 情 劇 搬 生 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "汰 生 生 誠\n\n(\n\n光\n\n漂 寺\n\n沁\n\n說\n\n二\n\n二\n\n2\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "師 RM 和 有 有\n[國 還\n要 還 大 此 搬 生 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "0 >\n\n=\n\n二\n\n二\n\nKm\n\n沁\n\n江\n\n罰\n\n之\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "扛 7\n\n0 有 八\n必\n\n喪\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "相 生 生 閃\n\n部. ~\n\n一\n\n示 泗 寺\n\n革 說\n\n>\n\nK\n\n二\n",
+      "pillars": []
+    }
+  ]
+}

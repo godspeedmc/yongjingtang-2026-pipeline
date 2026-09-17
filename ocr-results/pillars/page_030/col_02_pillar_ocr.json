@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 30,
+  "column_index": 2,
+  "source_crop": "field-crops\\pillars\\page_030\\col_02_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "補 旦 十 五 磊 西 金\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "Aalv\n\n康 畫\n\n品 還\n\n3 說\n\n只 了\n\n》\n\n妃 坏 計\n\n|\n\n人\n\n||HL\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "、 詞 訟 MR\n二\n> 者 守 選用 下 有 生\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "Aa|yv\n\n龐 守\n\nyy\n\n世 歡\n\n太\n\n守 >\n\n三 有 及\n\n記 理\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "~ 請 訟 人 上 1\n提\n> 穩 室 紀 丁 用 芋 用 生\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "AF gg\n\n和\n\n怕 首 有 媽\n\n廿 點 酒\n\n生\n\nw 和 >\n\n生 有 肥 克\n\n已 全 下\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "(請 生 二 可 室\n重生 五 西 全 3\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "Aa@|Vyv\n\n顏 守 蝦\n\n7 有\n\n品 》\n\n汪\n\n上\n\n二 唱\n\n宇 凡 人 >\n\n三 有 及 肥\n\n和 還\n\n站\n\n加)\n",
+      "pillars": []
+    }
+  ]
+}

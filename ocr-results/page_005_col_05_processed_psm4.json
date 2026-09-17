@@ -1,0 +1,90 @@
+{
+  "source_pdf_page": 5,
+  "column_index": 5,
+  "image_kind": "processed",
+  "image_file": "page-crops\\page_005\\col_05_processed.png",
+  "psm": 4,
+  "ocr_languages": "chi_tra+eng",
+  "column_warning": false,
+  "crop_coordinates": {
+    "x0": "579",
+    "y0": "212",
+    "x1": "769",
+    "y1": "2437"
+  },
+  "text": "",
+  "mean_confidence": null,
+  "median_confidence": null,
+  "minimum_confidence": null,
+  "maximum_confidence": null,
+  "recognized_token_count": 0,
+  "accepted_token_count": 0,
+  "tokens": [
+    {
+      "text": "",
+      "confidence": null,
+      "left": 0,
+      "top": 0,
+      "width": 190,
+      "height": 2225,
+      "page_num": 1,
+      "block_num": 0,
+      "paragraph_num": 0,
+      "line_num": 0,
+      "word_num": 0
+    },
+    {
+      "text": "",
+      "confidence": null,
+      "left": 0,
+      "top": 5,
+      "width": 190,
+      "height": 2220,
+      "page_num": 1,
+      "block_num": 1,
+      "paragraph_num": 0,
+      "line_num": 0,
+      "word_num": 0
+    },
+    {
+      "text": "",
+      "confidence": null,
+      "left": 0,
+      "top": 5,
+      "width": 190,
+      "height": 2220,
+      "page_num": 1,
+      "block_num": 1,
+      "paragraph_num": 1,
+      "line_num": 0,
+      "word_num": 0
+    },
+    {
+      "text": "",
+      "confidence": null,
+      "left": 0,
+      "top": 5,
+      "width": 190,
+      "height": 2220,
+      "page_num": 1,
+      "block_num": 1,
+      "paragraph_num": 1,
+      "line_num": 1,
+      "word_num": 0
+    },
+    {
+      "text": "",
+      "confidence": 95.0,
+      "left": 0,
+      "top": 5,
+      "width": 190,
+      "height": 2220,
+      "page_num": 1,
+      "block_num": 1,
+      "paragraph_num": 1,
+      "line_num": 1,
+      "word_num": 1
+    }
+  ],
+  "tesseract_config": "--oem 1 --psm 4 preserve_interword_spaces=1"
+}

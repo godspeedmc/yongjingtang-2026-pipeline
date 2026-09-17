@@ -1,0 +1,38 @@
+{
+  "source_pdf_page": 4,
+  "column_index": 3,
+  "image_kind": "original",
+  "image_file": "page-crops\\page_004\\col_03_original.png",
+  "psm": 4,
+  "ocr_languages": "chi_tra+eng",
+  "column_warning": true,
+  "crop_coordinates": {
+    "x0": "895",
+    "y0": "210",
+    "x1": "1026",
+    "y1": "2418"
+  },
+  "text": "",
+  "mean_confidence": null,
+  "median_confidence": null,
+  "minimum_confidence": null,
+  "maximum_confidence": null,
+  "recognized_token_count": 0,
+  "accepted_token_count": 0,
+  "tokens": [
+    {
+      "text": "",
+      "confidence": null,
+      "left": 0,
+      "top": 0,
+      "width": 131,
+      "height": 2208,
+      "page_num": 1,
+      "block_num": 0,
+      "paragraph_num": 0,
+      "line_num": 0,
+      "word_num": 0
+    }
+  ],
+  "tesseract_config": "--oem 1 --psm 4 preserve_interword_spaces=1"
+}

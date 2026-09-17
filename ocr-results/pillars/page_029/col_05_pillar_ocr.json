@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 29,
+  "column_index": 5,
+  "source_crop": "field-crops\\pillars\\page_029\\col_05_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "冷 淹 EE 淮\n\n途\n\n記\n\n中\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "章 厂 一\n和 初 十 成 辰 木 和 成\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "激 六 E 推\n\n)\n\n定 =\n\n頁\n\n三\n\n三 訊\n\n(\n\n一\n\n生 旋 二\n\n-\n\n4\n\n>\n\n>\n\n「 一\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "TUMRM 朋 詣 用 肖\n表\n和\n\n鱗 屆 多 二\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "激光 E 誰\n\n二\n\n~ 室 』 三\n\n電\n\n守 N7\n\n到\n\n4\n\n>\n\nAI||Y\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "上 太 一\n和 初 十 成 辰 本 成\n災 Le1 人 有 內 由 人 衝 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": ")\n\n定 」 三\n\n二 和 盂\n\n匡\n\n汽\n\n二\n\n一\n\n瑟\n\n一\n\n加\n\n>\n\n>\n\n「 一\n",
+      "pillars": []
+    }
+  ]
+}

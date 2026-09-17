@@ -1,0 +1,77 @@
+{
+  "source_pdf_page": 29,
+  "column_index": 1,
+  "source_crop": "field-crops\\pillars\\page_029\\col_01_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [
+    "甲子"
+  ],
+  "vote_counts": {
+    "甲子": 4
+  },
+  "top_candidate": "甲子",
+  "top_votes": 4,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "有 初 示 甲子 金 墊 生\n",
+      "pillars": [
+        "甲子"
+      ]
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "各 六\n\n之\n\nN /\n\nMM\n\n| ML\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "有 初 入 甲子 金 謾 箕 三\n",
+      "pillars": [
+        "甲子"
+      ]
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "太 站\n\n泡\n\nN/\n\n及\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "有 初 未 甲 子 金 吝 征 三\n",
+      "pillars": [
+        "甲子"
+      ]
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "和 集訓\n\n才\n\nN/\n\n人 W\n\n> 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "有 初 示 甲子 金 玄 丰 三\n",
+      "pillars": [
+        "甲子"
+      ]
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "讓 站\n\n泡\n\nN/\n\n及\n",
+      "pillars": []
+    }
+  ]
+}

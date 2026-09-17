@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 32,
+  "column_index": 2,
+  "source_crop": "field-crops\\pillars\\page_032\\col_02_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "AN mm 悶 二 誰 (人 | ~\n\n如 一 己 王 多 加 和\n\n三 4 和 /\n二 -「/ 1/\n\n亞 已 D 導 天 一 「/\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "TE\n\n僑\n\n|\n\nN\n\n| 中\n\n人\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "加 選\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "TW 三\n\n吃\n\n儿 |) 二\n\n補\n\nma\n\n> 到\n\n>\n\n>\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "加 有 生 人\n\n山 必\n了 三 生\n梭 王 類 補 和\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "才 三\n\nx\n\n| 二\n\n謗 2\n\n上 MS\n\n沙\n\nx\n\n補選 >\n\n之 六 于\n\nA|e\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "加 選\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "1,MP」 王\n\n泡\n\n潑 |,\n\n諺 條\n\nRE\n\n>\n\n議 導 )\n\n>\n",
+      "pillars": []
+    }
+  ]
+}

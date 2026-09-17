@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 31,
+  "column_index": 3,
+  "source_crop": "field-crops\\pillars\\page_031\\col_03_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "唔 大 王妃 內 子 廈 子 生 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "」 呈 本 > 三\n\n之 說 寢 光\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "畫 生 四 生 午 森 開\n應 選 內, 生 子 生 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "副 褒 沁 洗\n\n三 下 二\n\n宇\n\n7\n\n# 沙 朮\n\n之 三\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "世上 及 選 人 圭 唔\n四 王 和 可\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "區\n\nf 相 吧\n\n漣\n\n鶴 導\n\n怪 甩 二\n\n汪\n\n上\n\n生 M/\n\n之\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "二 四 亞 年 森 上\n唔 講古 自 子 生 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "之 說 寢 沒\n\n工 一\n\n也 下 是 二\n\n王\n\n三\n\n+ 閉\n\n之 下 旺 E\n",
+      "pillars": []
+    }
+  ]
+}

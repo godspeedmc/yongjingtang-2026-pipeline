@@ -1,0 +1,73 @@
+{
+  "source_pdf_page": 33,
+  "column_index": 2,
+  "source_crop": "field-crops\\pillars\\page_033\\col_02_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [
+    "甲午"
+  ],
+  "vote_counts": {
+    "甲午": 2
+  },
+  "top_candidate": "甲午",
+  "top_votes": 2,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "2 初 七 忠 午 金 名 嗎 下\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": ">\n\n之\n\n全\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "有 有 路 在\n七 甲午 金 角\n2 初\n",
+      "pillars": [
+        "甲午"
+      ]
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": ">\n\n之\n\n人\n\n】\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "角 孜 天\n忠 午 多\n2 初 莖\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "Ah\n\n當\n\n人\n\n所 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "有 有 路 在\n七 甲午 金 角\n2 初\n",
+      "pillars": [
+        "甲午"
+      ]
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": ">\n\n之\n\n人\n\n一\n",
+      "pillars": []
+    }
+  ]
+}

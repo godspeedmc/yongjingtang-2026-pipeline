@@ -1,0 +1,150 @@
+{
+  "date_candidate": null,
+  "date_mapping_source": null,
+  "lunar_month_hint": null,
+  "lunar_date_candidates": [],
+  "day_pillar_candidates": [],
+  "wealth_direction_candidates": [],
+  "joy_direction_candidates": [],
+  "clash_zodiac_candidates": [],
+  "sha_direction_candidates": [],
+  "field_agreement": {
+    "lunar_date_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 6
+    },
+    "day_pillar_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 6
+    },
+    "wealth_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 6
+    },
+    "joy_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 6
+    },
+    "clash_zodiac_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 6
+    },
+    "sha_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 6
+    }
+  },
+  "source_pdf_page": 5,
+  "column_index": 7,
+  "source_crop": "page-crops\\page_005\\col_07_original.png",
+  "crop_coordinates": {
+    "x0": 171,
+    "y0": 212,
+    "x1": 406,
+    "y1": 2437
+  },
+  "column_warning": false,
+  "column_warning_notes": "",
+  "pdf_coordinate_text": "",
+  "pdf_coordinate_tokens": [],
+  "extraction_sources": [
+    {
+      "source": "page_005_col_07_original_psm4",
+      "text": "",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": null,
+      "median_confidence": null,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_005_col_07_original_psm4.json"
+    },
+    {
+      "source": "page_005_col_07_original_psm6",
+      "text": "EF\nef\nJF\n\\-G\neRe\nHal\n[eA\near\nBer\n|iey\npass\nDa\nse\nSeH/AGH\n成\n午\n實\n|\n成\n午\n負\nZAI\nZAM\nBead\n(CBE\n4\nBah\n|\nE+\nSe\n|—\n24\n|—A\n|<\nADD\n|\nFiz\nfe\n|W\nceili\nae\nEe\nth\naaa\nEa\nBIAS)!\nNH}\nBn\nRAP\nSiR\nIU\nWRF\nAS\ni\nFF]\nAS\n|\nHE",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 38.603,
+      "median_confidence": 37.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_005_col_07_original_psm6.json"
+    },
+    {
+      "source": "page_005_col_07_original_psm11",
+      "text": "“EF\n|\ntf\nSEARLE\nBare\n歲\n大\n牛\n德\nBale\nDy\nBI\nis\nHRT]\nHey\n=O\nHen\n成\n午\n寅\nIT\nnA\nKAM\nrae\nphbe\nPie\nJn\nIS\nBaal\n|\nChE\n#8\nEVAN\nHea\namg\n才\n全\n|\n三\nPa\n|\n皿\nEe\nfen\n=\n作\n修\n人\nst\n安\n動\n出\nPL\n開\n上\n理\nRZ\nReha\n莽\n屋\n舍\nHF\nfF\nMi\nseit\nO1N\nita\nBERK?\nAAAS\nFF]\nAS\n|\nHE",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 46.685,
+      "median_confidence": 41.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_005_col_07_original_psm11.json"
+    },
+    {
+      "source": "page_005_col_07_processed_psm4",
+      "text": "",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": null,
+      "median_confidence": null,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_005_col_07_processed_psm4.json"
+    },
+    {
+      "source": "page_005_col_07_processed_psm6",
+      "text": "“EF\ner\n/\n和\n|\n七\n信\n期\n星\n|\n天\n1\nHla\nDEK\nFA\nke\nF-|\nHet\nje\nga\n|\nPe\npobre\nbalck\n中\n中\n理\n|ihrhb\nBARI\nZR\n中\n凶\n擊\n人\n才\nJest\n忌\nsaad\nBEER\nEF\n32\n|=e\nFS\n|FA\nSE\n|S\nADT\n|\nbe\nFe\n|W\naes\nFi\nHee\na\nHee\n蔭\nBn\nSIRILHEP\n百\n人\n|\n人\n外\nPe\n倉\nFY\nAS\n|\nABE",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 45.7,
+      "median_confidence": 42.5,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_005_col_07_processed_psm6.json"
+    },
+    {
+      "source": "page_005_col_07_processed_psm11",
+      "text": "“EF\n|\nAY\n期\n星\n|\n天\n=\nYE\n陰\n歲入\n我\n生\n德\nFale\nPaes\nAe\nFA\nre\nS-|\nHRT\nBEH|SEn\ndee\nkk\n成\n午\n寅\n中\n吉\n喜\nSses\nBARI\nphe\nKRG\nch\nPO\nst]\nSR)\niu\nBal\n[JCB\nsteak\nKE\nEe}\n32\n|=\nTE\n2S\n|—A\npen\n作\n修\n人\nkt\nta\n告\n學\nWN\n安\n動\n出\nAtt\n還\n上\n理\n38\npRBe\nReh\n華\n屋\n舍\nHF\nBF\n=\n——\nMy\nhn\nJL\nHR\nRA\nBF\nBALAS\nFY\nAS\n|\nABE",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 46.419,
+      "median_confidence": 44.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_005_col_07_processed_psm11.json"
+    }
+  ],
+  "ocr_pass_count": 6,
+  "candidate_build_status": "needs_date_mapping"
+}

@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 33,
+  "column_index": 4,
+  "source_crop": "field-crops\\pillars\\page_033\\col_04_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "久\n著\n客 侈 加\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "NA\n\n4\n\n和\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "及\n肖 衣\n客 侈 加\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "1\n\nNA\n\n4\n\n和\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "參\n\n儿\n\n人\n\n湯 葉 多邊 登 到\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "kAKEL\n\nN 仆\n\n四邊\n\n紅 紀\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "D\n人\n條 斤\n客 侈 加\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "1\n\nN 條\n\n4\n\n和\n",
+      "pillars": []
+    }
+  ]
+}

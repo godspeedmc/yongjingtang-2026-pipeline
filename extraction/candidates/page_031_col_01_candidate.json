@@ -1,0 +1,124 @@
+{
+  "date_candidate": "2026-09-03",
+  "date_mapping_source": "printed_page_sequence",
+  "lunar_month_hint": "七月",
+  "lunar_date_candidates": [],
+  "day_pillar_candidates": [],
+  "wealth_direction_candidates": [],
+  "joy_direction_candidates": [],
+  "clash_zodiac_candidates": [],
+  "sha_direction_candidates": [],
+  "field_agreement": {
+    "lunar_date_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "day_pillar_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "wealth_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "joy_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "clash_zodiac_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "sha_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    }
+  },
+  "source_pdf_page": 31,
+  "column_index": 1,
+  "source_crop": "page-crops\\page_031\\col_01_original.png",
+  "crop_coordinates": {
+    "x0": 1272,
+    "y0": 264,
+    "x1": 1498,
+    "y1": 3033
+  },
+  "column_warning": false,
+  "column_warning_notes": "",
+  "pdf_coordinate_text": "",
+  "pdf_coordinate_tokens": [],
+  "extraction_sources": [
+    {
+      "source": "page_031_col_01_original_psm5",
+      "text": "加\n子\n和\n五\n三\n病\n儿\n生\n十)\n人\n和\n全\n1\n你\n入\n世\n往\n訂婚\n納采\n和\n革\n學\n夭\n星\n全\n全\n芷\n歷歷\n回\n擴\n全\n中\n相葉\n名\n委\n三\n上\n下\n二\n上\n畫\n人\n頗\n邊\n朋\n紅\n入\n創\n對\n章\n箇\n性\n入",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 21.377,
+      "median_confidence": 11.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_031_col_01_original_psm5.json"
+    },
+    {
+      "source": "page_031_col_01_original_psm6",
+      "text": "甲\n回\n巨\n科\n訓\naa\n服\n取\n澡\n輻\n是\n沽\n上\n=\n了\n全\n玉生\n民\n\"二\nMM\n亡\n漣\n到\n閃\n湯\n北\n委\n人\n*\n記\n[\n生\n活\n>\n軍\n注\n5\n王族\n志\n位\n紅\n>\n)\n寺\n和\n中\n潑\n吉\n天\n六\n紀\n+\n渤\n舌\n下\n表\n和\n沙\n芙\n三\n各\n>\n讓\n到\n品\n三\n泡\n益\n京\n計\n戰\n生\n放\n到\n擊\n善\n說\n吃\n濕\n導\n間\n/\n匕\n世",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 18.714,
+      "median_confidence": 0.5,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_031_col_01_original_psm6.json"
+    },
+    {
+      "source": "page_031_col_01_processed_psm5",
+      "text": "人\n星\n天\n罷了\n己\n必\n王\n三\n站\n必\n基\n生\n到\n~\n從\n1\n休\n親生\n記\n拱\n從\n當\n從\n加\n世\n世\n條\n生\n說\n邊\n入\n朋\n革\n有\n各\n產\n還\n人\n四\n不敬\n下\n本\n品\n各\n行\n是!\n用\n半\n上\n直上\n人\n寫\n坎\n衣\n洪\n入\n會\n筑\n生\n戰記\n入\n相\n汕\n旬",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 17.906,
+      "median_confidence": 8.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_031_col_01_processed_psm5.json"
+    },
+    {
+      "source": "page_031_col_01_processed_psm6",
+      "text": "[|||||)\n加\n牌\n欄\n全\n中\n漸\n“人\n湯\n反\n蘭\n太\n=\n人\n記\n江\n那\n二\n寢\n[\n還\n澆\n>\n軍訓\n人\n還\n說\n全\n說\n之\n漳\n放\n(和\n站\n加\n取\n潑\n示\n+\n泊\n放\n下\n運\n還\n對\n宗三\n寺\n>\n汽\n盜\n到\n地\n三\n當\n請\n應\n吉\n三\n中\n二\n(/\n和\n也",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 17.397,
+      "median_confidence": 0.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_031_col_01_processed_psm6.json"
+    }
+  ],
+  "ocr_pass_count": 4,
+  "candidate_build_status": "candidate_created"
+}

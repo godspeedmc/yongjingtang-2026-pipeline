@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 30,
+  "column_index": 4,
+  "source_crop": "field-crops\\pillars\\page_030\\col_04_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "2 放 儿 得 七 乙 各 炙 女\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "對 北\n\n江 半\n\n8\n\nVSA\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "2 和 用 干 七 乙 誤 炙 女\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "對 北\n\n江\n\n人\n\nNAA\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "2 旅 儿 二 七 友 災 女\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "對 漲\n\n江 并\n\nNA\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "2 放 色 干 七 乙 雪 炙 女\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "尖 北\n\n淫\n\n人\n\nNAA\n",
+      "pillars": []
+    }
+  ]
+}

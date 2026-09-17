@@ -1,0 +1,124 @@
+{
+  "date_candidate": "2026-08-21",
+  "date_mapping_source": "printed_page_sequence",
+  "lunar_month_hint": "七月",
+  "lunar_date_candidates": [],
+  "day_pillar_candidates": [],
+  "wealth_direction_candidates": [],
+  "joy_direction_candidates": [],
+  "clash_zodiac_candidates": [],
+  "sha_direction_candidates": [],
+  "field_agreement": {
+    "lunar_date_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "day_pillar_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "wealth_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "joy_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "clash_zodiac_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "sha_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    }
+  },
+  "source_pdf_page": 29,
+  "column_index": 4,
+  "source_crop": "page-crops\\page_029\\col_04_original.png",
+  "crop_coordinates": {
+    "x0": 888,
+    "y0": 261,
+    "x1": 1117,
+    "y1": 3000
+  },
+  "column_warning": false,
+  "column_warning_notes": "",
+  "pdf_coordinate_text": "",
+  "pdf_coordinate_tokens": [],
+  "extraction_sources": [
+    {
+      "source": "page_029_col_04_original_psm5",
+      "text": "星\n全\n日志\n必得\n避\n二\n穿\n得\nLTUCI_\n三\n學\n路\n抽\n箱\n著\n疚\n証\n約\n條\n士\n竹村\n日\n|\n是\n人\n了\n畫\n人\n歡\n全\n便\n上\n和\n直人\n上\n加\n了\n上\n衝\n條",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 21.475,
+      "median_confidence": 5.5,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_029_col_04_original_psm5.json"
+    },
+    {
+      "source": "page_029_col_04_original_psm6",
+      "text": "國\n中\n世人\n息\n旗\n人\n中\nww\nEm\n章\nmx\nAH\nAM\n和\n朮\n“了\n人\nNA\n了\n=」“)w“T\n4\n下\n才\n章\n加\n」。\n到\n這\n生\n洛\n王\n區\n補色\n蝦\n芋\n導\n于\n芝\n二\n之\n說\n=\n中\n計\n汪\n六\n泡\n小\n和\n澀\n革\n先\n站\n對\n育\n「\n蔡\n正\n5\n王\n淮\n汪\n透\n伯\n演\n當\n法\n十\n閱\n溪\n叭\n補\n二\n6KZ",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 18.27,
+      "median_confidence": 6.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_029_col_04_original_psm6.json"
+    },
+    {
+      "source": "page_029_col_04_processed_psm5",
+      "text": "星\n全\n日\n刀\n中\n如\n生\n~\n穿\n盾\nLTTCL\n芝\n診\n張\n術\n漆\n謹\n克拉\n的\n俱\n芋\n竹\n生\n則\n了\n如\n和\n人\n外\n五\n浴\n後\n兩\n中\n西\n名\n只\n中\n到\n中\np\n開\n氾\n鼠\n非\n丁\n獎\n本\n全\n人\n和\n全\n眉\n天\n音\n和\n當",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 25.965,
+      "median_confidence": 18.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_029_col_04_processed_psm5.json"
+    },
+    {
+      "source": "page_029_col_04_processed_psm6",
+      "text": "[站\n紀\n丫\n部\n計\n汽\n功\n科\n座\n句\n工\n訪\nmm\n訂\n人\n人\n下\nw“\n本\n人\n下\n又\n品\n“二\n=\nAh\n人\n生\n六\n汪\n和\n站\n人\n人\n起\n畫\n+\n畫\n六\n吾\n放\n一\n有\n電\n點\n瑟\n理\n』\n華\n肉色\n三\n之\n誰\n計\n(中\n站\n訓\n盜\n對\n冰\n誕\n沁\n泊\n放\n當\n說\n遂\n首\n米\n吉\n宇\n一\n染\n正\n和\n※\n泊\n5\n到\n潑\n尖\n乏\n主\n當\n灌\n尖\n+\n浴\n澀\n說\n導\n品\n~/\n放\n導",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 19.421,
+      "median_confidence": 5.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_029_col_04_processed_psm6.json"
+    }
+  ],
+  "ocr_pass_count": 4,
+  "candidate_build_status": "candidate_created"
+}

@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 36,
+  "column_index": 2,
+  "source_crop": "field-crops\\pillars\\page_036\\col_02_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "Li MM 二 圭 上 LE / 一 1\n4 由\nW\n= 寺 礙\n2 有 有 間 問 喇 誕 人 說 林 和 二 二 電\n0 二 作 過 謂 則 Mi 第 竹 网 卻 4 生 下\n一 外 用 一 一 生 衣 革 立 /\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "更 品 沙 下\n\n|\n\n|\n\n| 中\n\n雪\n\n之 】\n\n| 上\n\n1\n\na 必 4\n\n|\n\nMM\n\n5 用\n\n|\n\n|\n\n』\n\n|\n\n|\n\n4\n\n|\n\n二\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "由 0 和 有 引 直下 人 十 品\n交點 如 但 卻\n性 子 四 全 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "竟 謹 沙 正\n\n之 』 三\n\n上 |)\n\n三\n\n可\n\n王 T\n\nx\n\n:\n\n和\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "工 下 站 般 星 上 全\n十 姑 星 呈\nMM 選 E 呈 子 四 子 生 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "8E\n\n[到\n\n入\n\n各\n\nx\n\n:\n\n有 >\n\n之 澀\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "中 和 般 星 和 划 人 芋\n年秋 星 一\n股 選 人 了 四 了 攝 年 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "合 穫 洲 下\n\n之 』 三\n\n上 [二\n\n六\n\n畫\n\n王 、\n\nx\n\n:\n\n人\n",
+      "pillars": []
+    }
+  ]
+}

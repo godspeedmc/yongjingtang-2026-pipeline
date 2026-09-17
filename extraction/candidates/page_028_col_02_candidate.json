@@ -1,0 +1,124 @@
+{
+  "date_candidate": "2026-08-14",
+  "date_mapping_source": "printed_page_sequence",
+  "lunar_month_hint": "七月",
+  "lunar_date_candidates": [],
+  "day_pillar_candidates": [],
+  "wealth_direction_candidates": [],
+  "joy_direction_candidates": [],
+  "clash_zodiac_candidates": [],
+  "sha_direction_candidates": [],
+  "field_agreement": {
+    "lunar_date_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "day_pillar_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "wealth_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "joy_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "clash_zodiac_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "sha_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    }
+  },
+  "source_pdf_page": 28,
+  "column_index": 2,
+  "source_crop": "page-crops\\page_028\\col_02_original.png",
+  "crop_coordinates": {
+    "x0": 646,
+    "y0": 262,
+    "x1": 811,
+    "y1": 3013
+  },
+  "column_warning": true,
+  "column_warning_notes": "No separator near expected x=984; used template boundary. | No separator near expected x=1312; used template boundary. | Manual crop override used; route to exception review.",
+  "pdf_coordinate_text": "",
+  "pdf_coordinate_tokens": [],
+  "extraction_sources": [
+    {
+      "source": "page_028_col_02_original_psm5",
+      "text": "則\n永生\n安\n誠\n初\n仁\n是\n行\n秀\n克\n折\n名\n!\n虐\n生\n百\n連\n四\n半\n上\n到\n交\n誠\n嘉和\n者\n經\n時\n作對\n章\n說\n二\n二\n自\n隊\n爐",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 20.086,
+      "median_confidence": 3.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_028_col_02_original_psm5.json"
+    },
+    {
+      "source": "page_028_col_02_original_psm6",
+      "text": "MM\nNu\n生\n加\n工\n汪\n砰\n源\n本\n廬\n了\n江\n卡\n小\n又\n-”\n尼\n涂\n崗\n漲\n0\n尼\n光\n和\n+\n其\n上\n油\n站\n7\n慚\n准\n歡\n中\n(站\n人\n下\n「{\n記\naa\n尋\n人\n名\n縣\n吋\n二\n+\n穫\n弛\n訕\n裕\n潤\n>\n匝\n劑\n窗\n院\n龐\n良",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 14.203,
+      "median_confidence": 0.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_028_col_02_original_psm6.json"
+    },
+    {
+      "source": "page_028_col_02_processed_psm5",
+      "text": "專區\n量\n王\n昌\n歷\n回\n合生\n才\n發\n其\n到\n一\n仁\n安\n時\n作\n全\n的\n特\n放\n生\n生\n和\n也\n四\n還\n自\n加\n才\n站\n讓\n衝\n有\n性\n才\n衝\n_\n代\n古\n和\n各\n各\n他\n和\n本\n自\n奉",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 27.426,
+      "median_confidence": 26.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_028_col_02_processed_psm5.json"
+    },
+    {
+      "source": "page_028_col_02_processed_psm6",
+      "text": "1\n馬\n殼\n所\n江\n汪\n當\n加\n工\n汪\n砰\n涼\n康\n到\n區\n下\n放\n廬\n廬\n區\n選\n歷\n※※\n洲\n沁\n于\n噴\n4\n吉光\n尖\n一\nIS\n泛\n人\n站\n/\n人\n筷\nMM\n下\n說\n生\n一\n記\n汽\n信\n當\n革\n路\n約\n二\n二\n最\n家\n裕\n潤\n必\n品\n泥\n宣\n附",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 14.426,
+      "median_confidence": 0.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_028_col_02_processed_psm6.json"
+    }
+  ],
+  "ocr_pass_count": 4,
+  "candidate_build_status": "candidate_created"
+}

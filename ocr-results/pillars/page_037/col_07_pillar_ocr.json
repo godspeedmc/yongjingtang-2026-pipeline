@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 37,
+  "column_index": 7,
+  "source_crop": "field-crops\\pillars\\page_037\\col_07_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "站 電子 W 生計 和 衣 化 prL\n三 和 「 全 二 ~ 2\n一 覽 二 二\n人 上 如 / 上 一\n有\n和 3 二 , 全 記 ( 軸 則 . W\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "一 盜\n\n一\n\n1\n\n|\n\nIT\n\n】)\n\n2\n\n】\n\nww\n\n1\n\n1\n\nNg\n\n世\n\nie\n\nww\n\n*h、\n\n|\n\n「\n\n4\n\n|\n\nllE\n\n3\n\n>\n\n上\n\n和 (\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "計 和 ML 和 有 上 親生\n皿\n華電 開 對\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "芷 半\n\n此 | 一\n\n理 』 一\n\n也 瑟 示\n\n生 4\n\n人\n\n(和 國 久久 血 歸回 四 人 和 個 多\n\n>\n\n本\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "王 和 ML 有 ME\n三 了 -\n十 開 攻\n物 生 王 儿 不 丁 俊和 可 生 (到\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "一 潑\n\n二\n\n妊 |[ 三\n\nxx\n\n也\n\n一\n\n]\n\n注 W\n\n)\n\n>\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "還 人 全\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "E\n\n畫 | 二\n\n紀 也 去\n\n下 改作\n\n人\n\n /)\n\n>\n\n引導\n",
+      "pillars": []
+    }
+  ]
+}

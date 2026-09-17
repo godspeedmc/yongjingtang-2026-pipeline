@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 30,
+  "column_index": 6,
+  "source_crop": "field-crops\\pillars\\page_030\\col_06_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "“ 整 思 十 九 丁 下 水 危\n2 旭 轉 和 和 紀香 補\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "Av\n\n人\n\n互 亞洲\n\n| 中\n\n|\n\n|\n\nLe\n\n|\n\nRa\n\n說\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "整 是 九 証 王 水 危\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "Av\n\n人\n\n下\n\n三 為 一\n\n之 4』 王\n\n和\n\n之 人\n\n~\n\n說\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "“理髮 生 TM 了 生 二 削\n整 是 元 耳 亞 未 危\n> 起 回 主 璋 煙 選修\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "AhAFQv\n\n人\n\n互 王 滬\n\n十\n\n上\n\n之 4 一\n\n中 了\n\n全 論\n\n補 必 《\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "( 整 四 十 九 丁 刁 水 和\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "Av\n\n人\n\n互 王 注\n\n三\n\n之\n\n和\n\n蘭 詢 于\n\n謗 儿\n",
+      "pillars": []
+    }
+  ]
+}

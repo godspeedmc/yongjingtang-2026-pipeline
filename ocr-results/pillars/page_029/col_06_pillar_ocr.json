@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 29,
+  "column_index": 6,
+  "source_crop": "field-crops\\pillars\\page_029\\col_06_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "記 」 人\n\n和 3 有 , 亡 听 各\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "$- 沾 和 和 ti\n守 二 回 鵬\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "說 之 全\n\n二\n\n點 加\n\n| 二\n\n一\n\nx\n\n一\n\n8\n\n芝\n\n三\n\n>\n\n>\n\n~ 吵 品 一\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "MR 上 甩 晴 人 E\n加 點 員 衣\n且 二 到 大 廬 六 也 上 生 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "名\n\n(吧 二\n\n| 到\n\n※_T\n\n-\n\n下\n\n一\n\n加\n\n%\n\nN7\n\n>\n\n之 失\n\n(| 中 一\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "1 全\n守 f 回 朋\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "了 人\n\n1\n\nw\n\n二)\n\n| 二\n\nx\n\nTE\n\n-\n\n#\n\n一\n\n品\n\n%\n\n三\n\n>\n\n>\n\n一\n\n6 中 一\n",
+      "pillars": []
+    }
+  ]
+}

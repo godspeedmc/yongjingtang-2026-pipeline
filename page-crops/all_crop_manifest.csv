@@ -1,0 +1,10 @@
+﻿source_pdf_page,column_index,x0,y0,x1,y1,reading_order,detection_method,column_warning,warning_notes,crop_file
+37,1,1381,262,1496,3012,right_to_left,manual_override,True,Manual crop override used; route to exception review.,page-crops\page_037\col_01_original.png
+37,2,1197,262,1363,3012,right_to_left,manual_override,True,Manual crop override used; route to exception review.,page-crops\page_037\col_02_original.png
+37,3,1075,262,1179,3012,right_to_left,manual_override,True,Manual crop override used; route to exception review.,page-crops\page_037\col_03_original.png
+37,4,951,262,1055,3012,right_to_left,manual_override,True,Manual crop override used; route to exception review.,page-crops\page_037\col_04_original.png
+37,5,767,262,933,3012,right_to_left,manual_override,True,Manual crop override used; route to exception review.,page-crops\page_037\col_05_original.png
+37,6,643,262,749,3012,right_to_left,manual_override,True,Manual crop override used; route to exception review.,page-crops\page_037\col_06_original.png
+37,7,397,262,625,3012,right_to_left,manual_override,True,Manual crop override used; route to exception review.,page-crops\page_037\col_07_original.png
+37,8,275,262,379,3012,right_to_left,manual_override,True,Manual crop override used; route to exception review.,page-crops\page_037\col_08_original.png
+37,9,127,262,257,3012,right_to_left,manual_override,True,Manual crop override used; route to exception review.,page-crops\page_037\col_09_original.png

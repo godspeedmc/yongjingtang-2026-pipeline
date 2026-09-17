@@ -1,0 +1,24 @@
+{
+  "candidate_records": 8,
+  "status_counts": {
+    "needs_review": 8
+  },
+  "pillar_check_counts": {
+    "match": 1,
+    "missing": 5,
+    "weak_match": 2
+  },
+  "exception_records": 8,
+  "publishable_records": 0,
+  "duplicate_dates": [],
+  "minimum_pillar_votes": 2,
+  "minimum_machine_confidence": 0.95,
+  "important_note": "Expected values are retained separately and never copied into extracted fields. Generic directions are comparison signals, not proof of printed publication values.",
+  "ground_truth_calibration": {
+    "total": 8,
+    "correct": 3,
+    "missing": 5,
+    "incorrect": 0,
+    "accuracy_percent": 37.5
+  }
+}

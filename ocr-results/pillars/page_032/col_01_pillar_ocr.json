@@ -1,0 +1,71 @@
+{
+  "source_pdf_page": 32,
+  "column_index": 1,
+  "source_crop": "field-crops\\pillars\\page_032\\col_01_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [
+    "戊子"
+  ],
+  "vote_counts": {
+    "戊子": 1
+  },
+  "top_candidate": "戊子",
+  "top_votes": 1,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "到 初 _ 成 子 炎 鬼 平\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "作\n\n准\n\n上 N\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "初 一 成 子 炎 鬼 平和\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "吃\n\n准\n\n上 N\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "初 一 戊子 炎 鬼 平和\n",
+      "pillars": [
+        "戊子"
+      ]
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "當\n\n閃\n\n立 N\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "到 初 _ 成 子 火 鬼 平生\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "吃\n\n准\n\n上 N\n",
+      "pillars": []
+    }
+  ]
+}

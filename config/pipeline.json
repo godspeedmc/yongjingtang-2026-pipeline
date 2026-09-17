@@ -1,0 +1,26 @@
+{
+  "edition": "香港永經堂通勝 2026",
+  "calendar_year": 2026,
+  "pdf_file": "source/976852581-通勝-丙午年2026.pdf",
+  "render_dpi": 355,
+  "ocr_languages": "chi_tra+eng",
+  "ocr_psm_modes": [4, 6, 11],
+  "auto_accept_threshold": 0.95,
+  "manual_review_threshold": 0.75,
+  "quality_control_sample_rate": 0.1,
+  "publishable_statuses": [
+    "machine_verified",
+    "human_verified"
+  ],
+  "required_fields": [
+    "date",
+    "edition",
+    "source_pdf_page",
+    "lunar_date",
+    "day_pillar",
+    "wealth_direction",
+    "joy_direction",
+    "clash_zodiac",
+    "sha_direction"
+  ]
+}

@@ -1,0 +1,9 @@
+﻿source_pdf_page,column_index,x0,y0,x1,y1,reading_order,detection_method,column_warning,warning_notes,crop_file
+29,1,1380,261,1486,3000,right_to_left,detected_separators,False,,page-crops\page_029\col_01_original.png
+29,2,1257,261,1362,3000,right_to_left,detected_separators,False,,page-crops\page_029\col_02_original.png
+29,3,1135,261,1239,3000,right_to_left,detected_separators,False,,page-crops\page_029\col_03_original.png
+29,4,888,261,1117,3000,right_to_left,detected_separators,False,,page-crops\page_029\col_04_original.png
+29,5,642,261,870,3000,right_to_left,detected_separators,False,,page-crops\page_029\col_05_original.png
+29,6,396,261,624,3000,right_to_left,detected_separators,False,,page-crops\page_029\col_06_original.png
+29,7,272,261,378,3000,right_to_left,detected_separators,False,,page-crops\page_029\col_07_original.png
+29,8,144,261,254,3000,right_to_left,detected_separators,False,,page-crops\page_029\col_08_original.png

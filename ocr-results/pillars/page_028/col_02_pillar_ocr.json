@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 28,
+  "column_index": 2,
+  "source_crop": "field-crops\\pillars\\page_028\\col_02_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "煙\n本 兒\n屆 寺 生\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "L, 了 台\n\n~\n\n(一\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "休\n本 刀\n奈 寺 舞\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "L, 有 1\n\nNS\n\n(“一\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "對\n至 刀\n星 并 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "L,x 交 7\n\n2\n\n怕 加\n\n一\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "和\n至 刀\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "LT 了 且 -\n\nNS\n\n())\n",
+      "pillars": []
+    }
+  ]
+}

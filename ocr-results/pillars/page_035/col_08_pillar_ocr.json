@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 35,
+  "column_index": 8,
+  "source_crop": "field-crops\\pillars\\page_035\\col_08_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "十 廿 八 乙 多 水 坤 破\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "Nz\n\n三\n\n5/\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "種 廿 八\n手 廿 人 乙 儿 水 斤 破 (\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "Nz\n\n所\n\n)\n\naa 二\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "笙 革 八\n相 凸 作 乙 鋁 水 埋 破 (\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "Nz\n\n所\n\n江\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "插 廿 八 乙 歡 水 片 破\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "Nz\n\n所\n\n)\n\naa 二\n",
+      "pillars": []
+    }
+  ]
+}

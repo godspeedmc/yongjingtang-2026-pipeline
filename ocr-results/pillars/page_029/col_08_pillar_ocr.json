@@ -1,0 +1,71 @@
+{
+  "source_pdf_page": 29,
+  "column_index": 8,
+  "source_crop": "field-crops\\pillars\\page_029\\col_08_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [
+    "辛未"
+  ],
+  "vote_counts": {
+    "辛未": 1
+  },
+  "top_candidate": "辛未",
+  "top_votes": 1,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "加 得 三 閨 未 士 尾 閉 三\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "和\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "本 十 三 閨 未 士 寢 閉 三\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "有\n\n畫\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "D 人\n-\n一\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "讓 熙\n\n+\n\n遍\n\n四\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "還 十 三 辛 未 士 司 閉 三\n",
+      "pillars": [
+        "辛未"
+      ]
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "有\n",
+      "pillars": []
+    }
+  ]
+}

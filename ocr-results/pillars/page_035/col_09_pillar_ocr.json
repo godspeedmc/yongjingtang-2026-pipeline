@@ -1,0 +1,71 @@
+{
+  "source_pdf_page": 35,
+  "column_index": 9,
+  "source_crop": "field-crops\\pillars\\page_035\\col_09_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [
+    "丙辰"
+  ],
+  "vote_counts": {
+    "丙辰": 1
+  },
+  "top_candidate": "丙辰",
+  "top_votes": 1,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "全 于 力 崗 碼 填 鬼 碼\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "放\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "對于 力 敗 碼 士 學 破\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "補\n\n深\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "廿 九 丙 大 土 鬼 破\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "記 漣\n\n演\n\n寬\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "對 于 力 丙 辰 士 鬼 矽\n",
+      "pillars": [
+        "丙辰"
+      ]
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "補\n\n汽\n",
+      "pillars": []
+    }
+  ]
+}

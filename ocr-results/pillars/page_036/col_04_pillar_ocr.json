@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 36,
+  "column_index": 4,
+  "source_crop": "field-crops\\pillars\\page_036\\col_04_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "中 |\n本 初 四 趨 申 木 委 開\n",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "半 合 下 全\n\n之\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "二 初 四 來 申 木 委 開\n未 _ 選 心中 上 禮 信人\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "痢 合 還 全\n\nC\n\n之\n\n二\n\n本 省 們 >\n\n二 呈 5\n\n2N7\n\n>\n\n之 上 至\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "上 小 上 二 途上\n全 初 四 充 申 可 開\n未 _ 選 “上 選定 生 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "姜 到\n\n人\n\n定 】>\n\n二\n\n泗 >\n\n二 戰\n\n可\n\nN7\n\n>\n\n之 本 旺 于\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "不 2 人\n吉 初 四 吉 申 木 委 開\n未 所 必 M, 代 貨 人 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "半生 東 全\n\n王 評 )\n\n二\n\n生 國 wa\n\n二 還\n\n著\n\n>\n\n之 = 至 =\n",
+      "pillars": []
+    }
+  ]
+}

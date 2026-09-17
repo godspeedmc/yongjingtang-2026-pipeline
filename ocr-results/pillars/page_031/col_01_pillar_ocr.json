@@ -1,0 +1,65 @@
+{
+  "source_pdf_page": 31,
+  "column_index": 1,
+  "source_crop": "field-crops\\pillars\\page_031\\col_01_pillar_original.png",
+  "language": "chi_tra_vert",
+  "psm_modes": [
+    5,
+    11
+  ],
+  "scale": 2.0,
+  "day_pillar_candidates": [],
+  "vote_counts": {},
+  "top_candidate": null,
+  "top_votes": 0,
+  "passes": [
+    {
+      "variant": "upscaled",
+      "psm": 5,
+      "text": "",
+      "pillars": []
+    },
+    {
+      "variant": "upscaled",
+      "psm": 11,
+      "text": "二\n\n畸 和 并\n\n記\n\n有\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 5,
+      "text": "歡 革 二 雪 辰 金 成\n",
+      "pillars": []
+    },
+    {
+      "variant": "otsu",
+      "psm": 11,
+      "text": "4\n\n工 >\n\n王 [ 至\n\n二 澆 >\n\n和\n\n叭\n\n二\n\n9\n\n之 志和 二\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 5,
+      "text": "民生\n服 牟 二 二 大 金成\nJ 束 己 “上 舌 喲 此 生 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "adaptive",
+      "psm": 11,
+      "text": "4) 有 生 二\n\n各 間 生\n\n二 >\n\n三 |\n\n到 活 >\n\n沐\n\n理\n\n說\n\n】\n\n人 了\n\n之\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 5,
+      "text": "放 革 王 雪 歷 金 成\n要 duM 人 條 上 革 和 全 人\n",
+      "pillars": []
+    },
+    {
+      "variant": "closed",
+      "psm": 11,
+      "text": "-」 gg\n\n噬 >\n\n王 [ 至\n\n二 澆 >\n\n下\n\n只\n\n之 二\n\n「\n",
+      "pillars": []
+    }
+  ]
+}

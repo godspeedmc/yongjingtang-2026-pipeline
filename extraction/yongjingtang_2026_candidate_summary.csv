@@ -1,0 +1,10 @@
+﻿date_candidate,source_pdf_page,column_index,source_crop,day_pillar_top,day_pillar_votes,lunar_date_top,wealth_direction_top,joy_direction_top,clash_zodiac_top,sha_direction_top,ocr_pass_count,column_warning,candidate_build_status,candidate_json
+2026-10-14,37,1,page-crops\page_037\col_01_original.png,丁未,1,九月十四,,,,,4,True,candidate_created,extraction\candidates\page_037_col_01_candidate.json
+2026-10-15,37,2,page-crops\page_037\col_02_original.png,,0,,,,,,4,True,candidate_created,extraction\candidates\page_037_col_02_candidate.json
+2026-10-16,37,3,page-crops\page_037\col_03_original.png,,0,,,,,,4,True,candidate_created,extraction\candidates\page_037_col_03_candidate.json
+2026-10-17,37,4,page-crops\page_037\col_04_original.png,甲子,2,九月初八,,,,,4,True,candidate_created,extraction\candidates\page_037_col_04_candidate.json
+2026-10-18,37,5,page-crops\page_037\col_05_original.png,,0,,,,,,4,True,candidate_created,extraction\candidates\page_037_col_05_candidate.json
+2026-10-19,37,6,page-crops\page_037\col_06_original.png,,0,九月十九,,,,,4,True,candidate_created,extraction\candidates\page_037_col_06_candidate.json
+2026-10-20,37,7,page-crops\page_037\col_07_original.png,,0,,,,,,4,True,candidate_created,extraction\candidates\page_037_col_07_candidate.json
+2026-10-21,37,8,page-crops\page_037\col_08_original.png,,0,,,,,,4,True,candidate_created,extraction\candidates\page_037_col_08_candidate.json
+2026-10-22,37,9,page-crops\page_037\col_09_original.png,,0,,,,,,4,True,candidate_created,extraction\candidates\page_037_col_09_candidate.json

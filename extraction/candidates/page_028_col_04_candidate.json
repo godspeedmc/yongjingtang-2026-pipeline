@@ -1,0 +1,124 @@
+{
+  "date_candidate": "2026-08-16",
+  "date_mapping_source": "printed_page_sequence",
+  "lunar_month_hint": "七月",
+  "lunar_date_candidates": [],
+  "day_pillar_candidates": [],
+  "wealth_direction_candidates": [],
+  "joy_direction_candidates": [],
+  "clash_zodiac_candidates": [],
+  "sha_direction_candidates": [],
+  "field_agreement": {
+    "lunar_date_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "day_pillar_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "wealth_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "joy_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "clash_zodiac_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    },
+    "sha_direction_candidates": {
+      "candidates": [],
+      "vote_counts": {},
+      "top_candidate": null,
+      "top_votes": 0,
+      "source_count": 4
+    }
+  },
+  "source_pdf_page": 28,
+  "column_index": 4,
+  "source_crop": "page-crops\\page_028\\col_04_original.png",
+  "crop_coordinates": {
+    "x0": 339,
+    "y0": 262,
+    "x1": 504,
+    "y1": 3013
+  },
+  "column_warning": true,
+  "column_warning_notes": "No separator near expected x=984; used template boundary. | No separator near expected x=1312; used template boundary. | Manual crop override used; route to exception review.",
+  "pdf_coordinate_text": "",
+  "pdf_coordinate_tokens": [],
+  "extraction_sources": [
+    {
+      "source": "page_028_col_04_original_psm5",
+      "text": "2\n鼻\n4\n清\n請\n上\n和\n克\n到\n一\n]\n合計\n至\n人\n(\n因\n三\n合\n明\n包\n=\n放\n本\n刀\n生\n主\nY\n銜\n李\n回\n全品\n特\n邊\n生\n條理\n人",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 25.722,
+      "median_confidence": 20.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_028_col_04_original_psm5.json"
+    },
+    {
+      "source": "page_028_col_04_original_psm6",
+      "text": "歷\n汪\nN\n/\n一\n歸\n[\n合演\n+\n才\n國\n全\n品\n=\n中“\n旺\n柒\n卡\n源\n“~\n喜\n屁\n軍\n章\n補\nVS\nNu\n2\n和\nN7\n供\n戰\n|\n本\n(站\n束\n部\n交\n放\n二\n嗎\n+\n詞\n主\n下\n肖\n言論\n宮\n誌\n“\n疙\n泌\n史\n送\n江",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 11.473,
+      "median_confidence": 0.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_028_col_04_original_psm6.json"
+    },
+    {
+      "source": "page_028_col_04_processed_psm5",
+      "text": "是\n二\n全\n啟示\n在\n生\n放\n性\n刀\n王\n下\n組\n二\n則\n丰\n想\n生\n國\n三\n鋪\n品\n條\n生\n條\n三\n呈\n和\n和\n生\n多\n打\n多\n條\n志\n失信\n國",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 17.556,
+      "median_confidence": 7.5,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_028_col_04_processed_psm5.json"
+    },
+    {
+      "source": "page_028_col_04_processed_psm6",
+      "text": "圖\n燭\nN/\n紅\nl\n淫\n夯\n注\n+\n芭\n二\n全\n熙\n人\n由\n古\n束\n是\n江上\n站\n源\n三\n二\n人\n央\n愉\n各\n家\n疼\n敵\nVS\nNu\n一\n用\ngg\n許\n小\n人\n(條\n+\n當\n客\n洲\n二\n應\n2\n誤\n郊\n放\n于\n電\n嗎\n+\n記\n論\n記\n江\n說\n廬\n才\nL\n沁\n葉\n」\n吃\n旋\n】\n<\n導\n汕",
+      "lunar_date_candidates": [],
+      "day_pillar_candidates": [],
+      "wealth_direction_candidates": [],
+      "joy_direction_candidates": [],
+      "clash_zodiac_candidates": [],
+      "sha_direction_candidates": [],
+      "mean_confidence": 18.571,
+      "median_confidence": 0.0,
+      "json_file": "C:\\Users\\Michael Cheung\\OneDrive\\Desktop\\yongjingtang-2026-pipeline\\ocr-results\\page_028_col_04_processed_psm6.json"
+    }
+  ],
+  "ocr_pass_count": 4,
+  "candidate_build_status": "candidate_created"
+}
