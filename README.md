@@ -1,0 +1,1 @@
+https://mahjongcalendar.netlify.app
